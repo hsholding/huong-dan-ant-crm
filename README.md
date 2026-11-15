@@ -13,8 +13,6 @@ Mỗi bản có một file PDF trong thư mục [pdf/](pdf/), ảnh nằm sẵn 
 - [Hướng dẫn cho quản lý](pdf/02-huong-dan-quan-ly.pdf)
 - [Hướng dẫn cho CEO](pdf/03-huong-dan-ceo.pdf)
 
-Nếu đọc trực tiếp trên GitHub mà một số ảnh không hiện: đó là giới hạn tải ảnh của repo riêng tư, bấm tải lại trang hoặc dùng bản PDF.
-
 ## Chọn bản hướng dẫn theo vai của anh chị
 
 | Vai | Bản hướng dẫn | Dùng khi anh chị muốn |
